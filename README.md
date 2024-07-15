@@ -1,3 +1,5 @@
+<img src="welcome.png">
+
 <h1 align="center">Hello! 👋, I'm Jed.</h1>
 <h3 align="center">A data science leader coming from the Philippines. Graduated from the Asian Institute of Management and a fellow in Eskwelabs! Connect with me!</h3>
 
@@ -18,22 +20,21 @@
 <a href="https://medium.com/@jed.soliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jed.soliman" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning **Data Engineering, MLOps**
-
 - 👨‍💻 All of my projects are available at [datascienceportfol.io/jdssoliman](datascienceportfol.io/jdssoliman)
-
-- 📝 I sometimes write articles on [https://medium.com/@jed.soliman](https://medium.com/@jed.soliman)
-
-- 💬 Ask me about **Python, Data Science, Machine Learning**
-
-- 📫 How to reach me **jdssoliman@gmail.com**
 
 - 📄 Know about my experiences [jdssoliman.tiiny.site](jdssoliman.tiiny.site)
 
-- ⚡ Fun fact **I play tennis**
-
-<h3 align="left">Connect with me:</h3>
-
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+#### Programming Languages
+![Bash](https://img.shields.io/badge/Bash-3A3A3A?style=flat&logo=gnubash) ![Python](https://img.shields.io/badge/Python-3A3A3A?style=flat&logo=python) ![SQL](https://img.shields.io/badge/SQL-3A3A3A?style=flat&logo=mysql) ![Markdown](https://img.shields.io/badge/Markdown-3A3A3A?style=flat&logo=markdown) ![HTML](https://img.shields.io/badge/HTML-3A3A3A?style=flat&logo=html5)
+
+#### Data Science and Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-3A3A3A?style=flat&logo=pandas) ![Numpy](https://img.shields.io/badge/Numpy-3A3A3A?style=flat&logo=numpy) ![TensorFlow](https://img.shields.io/badge/Tensorflow-3A3A3A?style=flat&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-3A3A3A?style=flat&logo=keras) ![PyTorch](https://img.shields.io/badge/PyTorch-3A3A3A?style=flat&logo=pytorch) 
+
+#### Visualization Tools
+![Plotly](https://img.shields.io/badge/Plotly-3A3A3A?style=flat&logo=plotly) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3A3A3A?style=flat) ![Power BI](https://img.shields.io/badge/Looker-3A3A3A?style=flat&logo=looker)
+
+#### Big Data and Cloud Computing
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3A3A3A?style=flat&logo=apachespark) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-3A3A3A?style=flat&logo=amazonwebservices) ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-3A3A3A?style=flat&logo=amazonec2) 
+ ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-3A3A3A?style=flat&logo=amazons3)
