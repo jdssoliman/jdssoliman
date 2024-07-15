@@ -20,12 +20,9 @@
 <a href="https://medium.com/@jed.soliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jed.soliman" height="30" width="40" /></a>
 </p>
 
-- 👨‍💻 All of my projects are available at [datascienceportfol.io/jdssoliman](datascienceportfol.io/jdssoliman)
+- 👨‍💻 All of my projects are available at <a href="https://datascienceportfol.io/jdssoliman" target="_blank">my Data Science Portfolio!</a>
 
-- 📄 Know about my experiences [jdssoliman.tiiny.site](jdssoliman.tiiny.site)
-
-
-<h3 align="left">Languages and Tools:</h3>
+- 📄 Know about my experiences here in <a href="https://jdssoliman.tiiny.site" target="_blank">my resume.</a>
 
 #### Programming Languages
 ![Bash](https://img.shields.io/badge/Bash-3A3A3A?style=flat&logo=gnubash) ![Python](https://img.shields.io/badge/Python-3A3A3A?style=flat&logo=python) ![SQL](https://img.shields.io/badge/SQL-3A3A3A?style=flat&logo=mysql) ![Markdown](https://img.shields.io/badge/Markdown-3A3A3A?style=flat&logo=markdown) ![HTML](https://img.shields.io/badge/HTML-3A3A3A?style=flat&logo=html5)
@@ -34,7 +31,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-3A3A3A?style=flat&logo=pandas) ![Numpy](https://img.shields.io/badge/Numpy-3A3A3A?style=flat&logo=numpy) ![TensorFlow](https://img.shields.io/badge/Tensorflow-3A3A3A?style=flat&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-3A3A3A?style=flat&logo=keras) ![PyTorch](https://img.shields.io/badge/PyTorch-3A3A3A?style=flat&logo=pytorch) 
 
 #### Visualization Tools
-![Plotly](https://img.shields.io/badge/Plotly-3A3A3A?style=flat&logo=plotly) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3A3A3A?style=flat) ![Power BI](https://img.shields.io/badge/Looker-3A3A3A?style=flat&logo=looker)
+![Plotly](https://img.shields.io/badge/Plotly-3A3A3A?style=flat&logo=plotly) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3A3A3A?style=flat) <img src="https://img.shields.io/badge/Tableau-3A3A3A?style=flat" alt="Tableau Badge">
+
 
 #### Big Data and Cloud Computing
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3A3A3A?style=flat&logo=apachespark) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-3A3A3A?style=flat&logo=amazonwebservices) ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-3A3A3A?style=flat&logo=amazonec2) 
