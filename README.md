@@ -26,6 +26,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+
 #### Programming Languages
 ![Bash](https://img.shields.io/badge/Bash-3A3A3A?style=flat&logo=gnubash) ![Python](https://img.shields.io/badge/Python-3A3A3A?style=flat&logo=python) ![SQL](https://img.shields.io/badge/SQL-3A3A3A?style=flat&logo=mysql) ![Markdown](https://img.shields.io/badge/Markdown-3A3A3A?style=flat&logo=markdown) ![HTML](https://img.shields.io/badge/HTML-3A3A3A?style=flat&logo=html5)
 
